@@ -14,3 +14,259 @@ header {
 
   background-color:
 
+
+New chat
+
+
+User
+Make a good webpage for a resume Name Vipin Pratap 
+
+ChatGPT
+Sure, I can help you create a good webpage for your resume. Here are the steps to follow:
+
+Step 1: Choose a website builder
+There are many website builders available online that you can use to create your webpage for your resume. Some popular options include Wix, Squarespace, and WordPress. Choose the one that works best for you.
+
+Step 2: Choose a template
+Once you have selected a website builder, browse through the available templates and choose one that suits your style and preferences. Look for templates that are designed for resume or portfolio websites.
+
+Step 3: Gather your information
+Before you start building your webpage, gather all the information you want to include on your resume. This may include your education, work experience, skills, achievements, and contact information.
+
+Step 4: Create your webpage
+Now that you have your template and information, it's time to start building your webpage. Follow the instructions provided by your website builder to add your information to the template.
+
+Step 5: Add personal touches
+Make your webpage stand out by adding personal touches such as a professional photo, a custom color scheme, or a unique layout.
+
+Step 6: Review and refine
+Once you have finished building your webpage, review it carefully to ensure there are no errors or typos. Refine your content and design as needed to make your webpage as professional and impressive as possible.
+
+Here is an example of what your webpage for a resume could look like:
+
+Header
+
+Name: Vipin Pratap
+Email: vipinpratap@email.com
+Phone: 123-456-7890
+LinkedIn: linkedin.com/in/vipinpratap
+Introduction
+
+A brief introduction about yourself and your career goals.
+Education
+
+Degree: Bachelor of Technology in Computer Science and Engineering, XYZ University, 2016-2020
+GPA: 3.8/4.0
+Work Experience
+
+Job title: Software Engineer, ABC Inc., 2020-present
+Job responsibilities and achievements
+Skills
+
+Technical skills
+Soft skills
+Projects
+
+Project title: Description and achievements
+Certifications
+
+Certification name: Issuing organization, Date
+Volunteer Experience
+
+Organization: Job title and responsibilities, Date
+Languages
+
+Languages spoken and proficiency level
+Interests
+
+
+
+
+User
+Write a code of a resume site 
+
+ChatGPT
+As an AI language model, I cannot write and publish the code for a website. However, I can provide you with an overview of what a basic code for a resume site may look like.
+
+The first step would be to create the HTML structure of the website, including the header, body, and footer. Here's an example of how the basic structure of the HTML code for a resume website would look like:
+
+php
+Copy code
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Vipin Pratap's Resume</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header>
+      <!-- Header content goes here -->
+    </header>
+
+    <main>
+      <!-- Main content goes here -->
+    </main>
+
+    <footer>
+      <!-- Footer content goes here -->
+    </footer>
+  </body>
+</html>
+After creating the basic HTML structure, you can add the main content of the website. This may include your name, contact information, education, work experience, skills, and other relevant information. Here is an example of how the HTML code for a resume website may look like:
+
+less
+Copy code
+<main>
+  <h1>Vipin Pratap</h1>
+  <ul>
+    <li>Email: vipinpratap@email.com</li>
+    <li>Phone: 123-456-7890</li>
+    <li>LinkedIn: linkedin.com/in/vipinpratap</li>
+  </ul>
+
+  <section>
+    <h2>Education</h2>
+    <ul>
+      <li>Bachelor of Technology in Computer Science and Engineering, XYZ University, 2016-2020</li>
+      <li>GPA: 3.8/4.0</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Work Experience</h2>
+    <ul>
+      <li>Software Engineer, ABC Inc., 2020-present</li>
+      <li>Job responsibilities and achievements</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Skills</h2>
+    <ul>
+      <li>Technical skills</li>
+      <li>Soft skills</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Projects</h2>
+    <ul>
+      <li>Project title: Description and achievements</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Certifications</h2>
+    <ul>
+      <li>Certification name: Issuing organization, Date</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Volunteer Experience</h2>
+    <ul>
+      <li>Organization: Job title and responsibilities, Date</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Languages</h2>
+    <ul>
+      <li>Languages spoken and proficiency level</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Interests</h2>
+    <ul>
+      <li>Interests and hobbies</li>
+    </ul>
+  </section>
+</main>
+Finally, you would need to add a CSS stylesheet to style your website and make it visually appealing. Here's an example of how the CSS code for a resume website may look like:
+
+css
+Copy code
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+}
+
+header {
+  background-color:
+
+
+
+
+User
+Write a code to add photo in a resume with html and css file
+
+ChatGPT
+Sure, here's an example of how to add a photo to a resume using HTML and CSS:
+
+HTML:
+
+php
+Copy code
+<main>
+  <div class="resume-header">
+    <div class="header-left">
+      <img src="profile-picture.jpg" alt="Profile Picture">
+      <h1>Vipin Pratap</h1>
+      <p>Software Engineer</p>
+    </div>
+    <div class="header-right">
+      <ul>
+        <li>Email: vipinpratap@email.com</li>
+        <li>Phone: 123-456-7890</li>
+        <li>LinkedIn: linkedin.com/in/vipinpratap</li>
+      </ul>
+    </div>
+  </div>
+  <!-- Rest of resume content goes here -->
+</main>
+CSS:
+
+css
+Copy code
+.resume-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+}
+
+.header-left img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-right: 30px;
+}
+
+.header-left h1 {
+  font-size: 36px;
+  margin: 0;
+}
+
+.header-left p {
+  font-size: 24px;
+  margin: 0;
+  color: #666;
+}
+
+.header-right ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.header-right li {
+  margin-bottom: 10px;
+}
