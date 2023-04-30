@@ -1,0 +1,56 @@
+.body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.2;
+  color: #333;
+  background-color: lightgray;
+}
+
+header {
+  background-color:pink;
+}
+  
+.resume-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header-left img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin: center;
+}
+
+h1 {
+  font-size: 40px;
+  margin: 0;
+  text-decoration: underline;
+  text-align: center;
+}
+
+.header-left p {
+  font-size: 24px;
+  margin: 0;
+  color: #666;
+}
+
+.header-right ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.header-right li {
+  margin-bottom: 10px;
+}
+
+
