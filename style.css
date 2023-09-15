@@ -1,14 +1,16 @@
+body {
+  background: rgb(110, 18, 185);
+  background: linear-gradient(90deg, rgba(110, 18, 185, 1) 11%, rgba(64, 7, 248, 1) 52%, rgba(20, 193, 216, 1) 91%);
+}
+
 .body {
   font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 1.2;
-  background: rgb(110,18,185);
-  background: linear-gradient(90deg, rgba(110,18,185,1) 11%, rgba(64,7,248,1) 52%, rgba(20,193,216,1) 91%);
 }
 
 header {
-  background: rgb(110,18,185);
-  background: linear-gradient(90deg, rgba(110,18,185,1) 11%, rgba(64,7,248,1) 52%, rgba(20,193,216,1) 91%);
+  background-color:pink;
 }
   
 .resume-header {
