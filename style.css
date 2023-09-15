@@ -10,7 +10,8 @@ body {
 }
 
 header {
-  background-color:pink;
+  background: rgb(238,174,202);
+  background: radial-gradient(circle, rgba(238,174,202,1) 7%, rgba(148,187,233,1) 96%);
 }
   
 .resume-header {
